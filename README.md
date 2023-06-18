@@ -5,7 +5,6 @@
 </p>
 
 # Objetivo
-Pygame :: GALAXIA <br>
 Especificaciones mínimas: <br>
 1- La nave propia solo podrá moverse de izquierda a derecha o viceversa,
 nunca hacia adelante o hacia atrás. <br>
@@ -25,4 +24,4 @@ o Temporizador. <br>
 o Imágenes. <br>
 o Audios. <br>
 o Ranking de puntuaciones <br>
-
+# Link del codigo del proyecto en GDB
