@@ -1,2 +1,6 @@
 # Juego_galaxy
-Segundo parcial de laboratorio 1
+<h1 align= "center">Juego galaxy 👽</h1>
+
+<p align="center">
+   <img src= "Img/ArduinoTinkercad.jpg" />
+</p>
