@@ -24,4 +24,16 @@ o Temporizador. <br>
 o Imágenes. <br>
 o Audios. <br>
 o Ranking de puntuaciones <br>
-# Link del codigo del proyecto en GDB
+# Imagenes del juego
+<p align="center">
+   <img src= "Imagenes/Img_menu_principal.png" />
+</p>
+<p align="center">
+   <img src= "Imagenes/Img_menu_ranking.png" />
+</p>
+<p align="center">
+   <img src= "Imagenes/Img_juego.png" />
+</p>
+<p align="center">
+   <img src= "Imagenes/Img_menu_game_over.png" />
+</p>
